@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<br clear="both">
 
 <p align="center">Rodo here! Furry rabbit from Mexico🐇🇲🇽</p>
 
@@ -29,7 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<br clear="both">
 
 <h2 align="left">About me</h2>
 
